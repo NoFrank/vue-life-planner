@@ -1,7 +1,7 @@
 {
   "name": "vue-life-planner",
   "version": "0.0.1",
-  "description": "A comprehensive sample app",
+  "description": "A comprehensive Vue.js sample app",
   "author": "Norbert D. Frank",
   "private": true,
   "scripts": {

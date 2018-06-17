@@ -52,7 +52,7 @@ Besides Vue.js itself the following libraries are being used:
 
 ``` bash
 # 1. Clone the repository
-git clone https://github.com/NoFrank/vue-life-planner vue-life-planner
+git clone https://github.com/NoFrank/vue-life-planner.git vue-life-planner
 
 # 2. Enter your newly-cloned folder
 cd vue-life-planner
