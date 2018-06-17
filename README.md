@@ -9,7 +9,7 @@ in bigger apps. But for the purpose of demonstrating different ways and giving a
 this shouldn't be a problem.
 
 You will find many comments in the source and links to the official documentation. This is work in progress. Don't
-take everything as 'this is how it should be' but as a starting point to play around with different approaches and toform your own opinion.
+take everything as 'this is how it should be' but as a starting point to play around with different approaches and to form your own opinion.
 
 ## Features
 
